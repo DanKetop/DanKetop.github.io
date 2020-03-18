@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanKetop.github.io</id>
     <title>DanKe&apos;s Blog</title>
-    <updated>2020-03-17T07:19:29.664Z</updated>
+    <updated>2020-03-18T03:13:49.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanKetop.github.io"/>
     <link rel="self" href="https://DanKetop.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://DanKetop.github.io/images/avatar.png</logo>
     <icon>https://DanKetop.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DanKe&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.03.18]]></title>
+        <id>https://DanKetop.github.io/post/20200318/</id>
+        <link href="https://DanKetop.github.io/post/20200318/">
+        </link>
+        <updated>2020-03-18T03:09:42.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="机器学习基础">机器学习基础</h3>
+<h4 id="151-事件的独立性">1.5.1 事件的独立性</h4>
+<ol>
+<li>B</li>
+<li>B</li>
+<li>B</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020.03.17]]></title>
         <id>https://DanKetop.github.io/post/20200317/</id>
