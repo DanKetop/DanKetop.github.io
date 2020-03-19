@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanKetop.github.io</id>
     <title>DanKe&apos;s Blog</title>
-    <updated>2020-03-18T03:21:56.017Z</updated>
+    <updated>2020-03-19T00:03:35.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanKetop.github.io"/>
     <link rel="self" href="https://DanKetop.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://DanKetop.github.io/images/avatar.png</logo>
     <icon>https://DanKetop.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DanKe&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.03.19]]></title>
+        <id>https://DanKetop.github.io/post/20200319/</id>
+        <link href="https://DanKetop.github.io/post/20200319/">
+        </link>
+        <updated>2020-03-19T00:03:12.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="机器学习基础">机器学习基础</h3>
+<h4 id="152-练习题">1.5.2 练习题</h4>
+<p><strong>全是 <code>D</code></strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020.03.18]]></title>
         <id>https://DanKetop.github.io/post/20200318/</id>
