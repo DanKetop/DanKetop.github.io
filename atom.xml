@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanKetop.github.io</id>
     <title>DanKe&apos;s Blog</title>
-    <updated>2020-03-19T00:05:26.892Z</updated>
+    <updated>2020-03-19T00:17:46.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanKetop.github.io"/>
     <link rel="self" href="https://DanKetop.github.io/atom.xml"/>
@@ -21,6 +21,36 @@
 <ul>
 <li><strong>全是 <code>D</code></strong></li>
 </ul>
+<h3 id="python数据分析">Python数据分析</h3>
+<h4 id="71-数据规约-主要数据预处理函数">7.1 数据规约、主要数据预处理函数</h4>
+<ol>
+<li>数值规约里面，面对有参数，应该使用哪三种方法？
+<ul>
+<li>直方图</li>
+<li>聚类</li>
+<li>抽样</li>
+</ul>
+</li>
+<li>属性规约常用的有哪五种方法？
+<ul>
+<li>合并</li>
+<li>向前选择</li>
+<li>向后删除</li>
+<li>决策树归纳</li>
+<li>主成分分析</li>
+</ul>
+</li>
+<li>数据的规约的目的是什么？
+<ul>
+<li>减少数据量</li>
+</ul>
+</li>
+<li>使用主成分分析降维时，可以利用sklearn里面的哪个工具？
+<ul>
+<li>PCA</li>
+</ul>
+</li>
+</ol>
 ]]></content>
     </entry>
     <entry>
