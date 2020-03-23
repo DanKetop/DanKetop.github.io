@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanKetop.github.io</id>
     <title>DanKe&apos;s Blog</title>
-    <updated>2020-03-23T02:22:33.714Z</updated>
+    <updated>2020-03-23T02:28:05.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanKetop.github.io"/>
     <link rel="self" href="https://DanKetop.github.io/atom.xml"/>
@@ -42,7 +42,7 @@
 <li>数据存储方式有哪几种？各有何特点？
 <ul>
 <li>开放系统的直连式存储(Direct Attached Storage，DAS)  特点：效率比较低，无法共享，数据保护流程复杂。</li>
-<li>网络附加存储(Network Attached Storage,NAS)                      特点：即插即用，存储简单，存储设备位置灵活。</li>
+<li>网络附加存储(Network Attached Storage，NAS)                      特点：即插即用，存储简单，存储设备位置灵活。</li>
 </ul>
 </li>
 </ol>
