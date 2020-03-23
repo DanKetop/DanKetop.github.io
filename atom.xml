@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DanKetop.github.io</id>
     <title>DanKe&apos;s Blog</title>
-    <updated>2020-03-20T00:44:45.659Z</updated>
+    <updated>2020-03-23T02:22:33.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DanKetop.github.io"/>
     <link rel="self" href="https://DanKetop.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://DanKetop.github.io/images/avatar.png</logo>
     <icon>https://DanKetop.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DanKe&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[2020.03.23]]></title>
+        <id>https://DanKetop.github.io/post/20200323/</id>
+        <link href="https://DanKetop.github.io/post/20200323/">
+        </link>
+        <updated>2020-03-23T02:22:09.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="大数据分析及应用实践">大数据分析及应用实践</h3>
+<h4 id="25-数据存储">2.5 数据存储</h4>
+<ol>
+<li>常见的文本类型的数据源<strong>不包括</strong>以下哪个（）
+<ul>
+<li><code>SQL Server</code></li>
+</ul>
+</li>
+<li>以下<strong>不属于</strong>数据库类型的数据源是（）
+<ul>
+<li><code>Excel</code></li>
+</ul>
+</li>
+<li>常见的数据集群类型的数据源<strong>不包括</strong>以下哪个（）
+<ul>
+<li><code>Excel</code></li>
+</ul>
+</li>
+<li>常见的三种数据源类型有：超文本类型、数据库类型和数据集群类型。（）
+<ul>
+<li><code>×</code></li>
+</ul>
+</li>
+<li>数据存储方式有哪几种？各有何特点？
+<ul>
+<li>开放系统的直连式存储(Direct Attached Storage，DAS)  特点：效率比较低，无法共享，数据保护流程复杂。</li>
+<li>网络附加存储(Network Attached Storage,NAS)                      特点：即插即用，存储简单，存储设备位置灵活。</li>
+</ul>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020.03.20]]></title>
         <id>https://DanKetop.github.io/post/20200320/</id>
